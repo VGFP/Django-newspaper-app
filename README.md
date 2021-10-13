@@ -1,2 +1,2 @@
 # Django-newspaper-app
-Newspaper app form django for beginners book
+Newspaper app form Django for beginners book by William S. Vincent
