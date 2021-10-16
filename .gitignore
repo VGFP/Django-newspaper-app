@@ -97,7 +97,11 @@ venv.bak/
 *.sublime-workspace 
 *.sublime-project 
 
-scripts/
+# New
+Scripts/
+Lib/
+Include/
+# New END
 
 # sftp configuration file 
 sftp-config.json 
